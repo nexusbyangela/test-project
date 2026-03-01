@@ -1,2 +1,3 @@
-print("Hello Nexus by Angela 🚀")
+print("Hello Nexus by Angela 🚀")print("This is my first GitHub project.")
+
 
